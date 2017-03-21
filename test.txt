@@ -1,1 +1,2 @@
 My first text file. Hope git will run smooth.
+i am editing this for first time
